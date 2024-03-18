@@ -1,10 +1,7 @@
-# Responsive-Registration-Form
-
-*💻 Responsive Registration Form with HTML and CSS*
-
+# 💻  Responsive-Registration-Form-with-HTML-&-CSS
 A responsive registration form built using HTML and CSS, ensuring seamless user experience across devices.
 
-Features:
+**Features:**
 📱 Responsive Design
 🎨 Clean and Minimalistic
 🛠️ Customizable
@@ -12,10 +9,10 @@ Features:
 🎨 CSS3 Styling
 🌐 Cross-Browser Compatibility
 
-Usage:
+**Usage:**
 Clone or download the repository.
 Open index.html in your browser.
 Customize fields and styles as needed.
 
-License:
+**License:**
 This project is licensed under the MIT License.
