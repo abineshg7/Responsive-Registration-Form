@@ -15,7 +15,8 @@ body{
     justify-content: center;
     padding: 0 20px;
     background-color: #FF204E;
-    background: ;
+    background-image: url(images/bg1.jpg);
+    background-size: cover;
 }
 
 .container {
